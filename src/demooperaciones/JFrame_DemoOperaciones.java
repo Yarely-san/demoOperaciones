@@ -93,7 +93,7 @@ public class JFrame_DemoOperaciones extends javax.swing.JFrame {
         // TODO add your handling code here:
         int numA= Integer.parseInt(txt1.getText());
         int numB= Integer.parseInt(txt2.getText());
-        JOptionPane.showMessageDialog(this, "La sumatoria de los numeros es: " + (numA+numB));
+        JOptionPane.showMessageDialog(this, "La sumatoria de los numeros A y B es: " + (numA+numB));
     }//GEN-LAST:event_btnSumarActionPerformed
 
     /**
